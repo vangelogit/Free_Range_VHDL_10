@@ -9,7 +9,7 @@ updates regarding newer VHDL versions were also added where appropriate.
 
 Vitor Angelo
 
-(What follows it was the last information made available by the original authors)
+(What follows is the last information made available by the original authors, at the time of the fork)
 
 ## FREE RANGE VHDL (last commit: Fri Jan 4 14:07:09 2019 +0100)
 
